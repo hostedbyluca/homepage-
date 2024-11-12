@@ -1,0 +1,32 @@
+.container header {
+    background-color: #6F0101;
+}
+.container header nav {
+    background-color: #F52200;
+}
+footer .footer_column p {
+    background-color: #061E34;
+    color: #D5A497;
+}
+footer .footer_column h3 {
+}
+.container #contact {
+    background-image: url(images/night.jpg);
+}
+.container footer .footer_column {
+    background-color: #07111D;
+}
+.container #hero {
+    background-image: url(images/hero.jpg);
+}
+.container #about {
+    background-color: #101217;
+    color: #DE8A8B;
+}
+.container .gallery {
+    background-color: #2A0202;
+}
+.container .banner {
+    background-image: url(images/night.jpg);
+    background-color: #980404;
+}
